@@ -1,0 +1,10 @@
+qr-code-generator/
+│
+├── main.py            # CLI version
+├── app.py             # Web server version
+├── static/
+│   └── qr.png         # Example/output files (generated dynamically)
+├── templates/
+│   └── index.html     # Web interface
+├── requirements.txt
+└── README.md

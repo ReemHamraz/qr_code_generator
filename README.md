@@ -38,5 +38,5 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/qr-code-generator.git
-cd qr-code-generator
+cd qr_code_generator
 

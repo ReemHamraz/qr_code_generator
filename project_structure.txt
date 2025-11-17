@@ -7,4 +7,6 @@ qr-code-generator/
 ├── templates/
 │   └── index.html     # Web interface
 ├── requirements.txt
+├──Procfile
+├── runtime.txt
 └── README.md

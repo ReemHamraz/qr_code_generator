@@ -1,4 +1,3 @@
-# qr_code_generator
 # QR Code Generator
 
 A simple and efficient QR code generator that works in two ways:
